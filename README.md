@@ -11,7 +11,8 @@ When the app loads, the user gets notified if there is any low items in stock.
 The dashboard shows a bar chart of products and their count, one card view showing total number of items and another card view showing total value 
 of inventory.
 
-There is a button on the dashboard called 'Manage' that leads to the products screen.
+There is a button on the dashboard called 'See Products' that leads to the products screen. There is a search function the products screen to search for products by name or
+their category.
 
 How To Run:
 
@@ -44,10 +45,11 @@ This issue may arise if you install the APK on a real device.
 
 Running the Web API:
 
-1. Run the solution file (.sln).
+1. Run the solution file (.sln) to open in Visual Studio.
 2. You may have to install several packages if needed. Use Nuget package manager. Also, be sure to install the Target Framework extension 
 for smooth migration.
 3. You can test the web API using Postman. All the methods (GET, POST , PUT and DELETE) work without issues.
+4, For automated tests, run the command 'dotnet test' from the terminal in Visual Studio.
 
 Known Issues with testing the Web API:
 
