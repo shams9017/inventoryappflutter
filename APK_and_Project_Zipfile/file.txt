@@ -1,1 +1,7 @@
+You can go the google drive link below to access the zipped project files.
 
+Flutter project file:
+https://drive.google.com/file/d/1C6eDwlMGVowIj10ZmlcNK8IDCpRA3tQ3/view?usp=sharing
+
+.NET Core Web API:
+https://drive.google.com/file/d/1HPKVqXX3jKiPyl7BqWRopntjGYRAkIhS/view?usp=sharing
