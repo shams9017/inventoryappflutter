@@ -37,10 +37,7 @@ Using the APK file:
 
 Known Issues with the app:
 
-The dashboard data may not show after the app loads. The probable cause is still being determined. 
-To fix this issue, click the Hot Reload button on Android Studio (the one on the top left that looks like a lightning bolt).
-The dashboard should correctly display data now.
-This issue may arise if you install the APK on a real device. 
+There are no known issues with the app as of now. The previous issues have been fixed. 
 
 
 Running the Web API:
