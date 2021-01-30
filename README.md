@@ -11,7 +11,7 @@ When the app loads, the user gets notified if there is any low items in stock.
 The dashboard shows a bar chart of products and their count, one card view showing total number of items and another card view showing total value 
 of inventory.
 
-There is a button on the dashboard called 'See Products' that leads to the products screen. There is a search function the products screen to search for products by name or
+There is a button on the dashboard called 'See Products' that leads to the products screen. There is a search function on the products screen to search for products by name or
 their category.
 
 How To Run:
@@ -26,10 +26,11 @@ Android Studio might prompt you to locate the Dart SDK.
 5. Click apply and ok to finalize the config file.
 6. After config, select Flutter emulator as virtual device. You can also run this in a virtual device from AVD manager (select API 28).
 7. CLick run button or also you can use flutter run command from the terminal. The app should load now.
+8. To run in VS Code, add the project folder and then run the 'flutter run' command.
 
 Using the APK file:
 
-1. Load the APK with a cable to your android phone.
+1. Load the APK with a cable to your android phone. I could run on my Samsung Galaxy S9.
 2. You may have to update your security settings to allow installation from other sources.
 3. When there are no security issues, go to file manager of your phone and locate the APK.
 4. You can install it by clicking it.
@@ -44,7 +45,7 @@ Running the Web API:
 
 1. Run the solution file (.sln) to open in Visual Studio.
 2. You may have to install several packages if needed. Use Nuget package manager. Also, be sure to install the Target Framework extension 
-for smooth migration.
+for smooth migration into different frameworks.
 3. You can test the web API using Postman. All the methods (GET, POST , PUT and DELETE) work without issues.
 4, For automated tests, run the command 'dotnet test' from the terminal in Visual Studio.
 
